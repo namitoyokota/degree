@@ -68,17 +68,27 @@ ECE 383
 > Microprocessors, microcontrollers, assembly-language programming, interrupts, polling and hardware interfaces. Computing proficiency is required for a passing grade in this course. Includes laboratory experiments.
 
 ## Mathematics
-### MATH 126
+### Calculus II
+MATH 126
+> This is the second of three courses in the basic calculus sequence. Topics include vectors and the geometry of space, applications of integration, integration techniques, L'Hopital's Rule, improper integrals, parametric equations, polar coordinates, conic sections and infinite series.
 
-### MATH 227
+### Calculus III
+MATH 227
+> This is the third of three courses in the basic calculus sequence. Topics include: vector functions and motion in space; functions of two or more variables and their partial derivatives; and applications of partial derivatives (including Lagrange multipliers), quadric surfaces, multiple integration (including Jacobian), line integrals, Green's Theorem, vector analysis, surface integrals and Stokes' Theorem.
 
-### MATH 237
+### Introduction to Linear Algebra
+MATH 237
+> Fundamentals of linear algebra and matrix theory are covered. Topics include vectors in Euclidean spaces, solving systems of linear equations, matrix algebra, inverses, determinants, eigenvalues, and eigenvectors. Also vector spaces and the basic notions of span, subspace, linear independence, basis, dimension, linear transformation, kernel and range are considered. Computing proficiency is required for a passing grade in this course.
 
-### MATH 301
+### Dicrete Mathematics
+MATH 301
+> An introduction to mathematical logic and proof within the context of discrete structures. Topics include basic mathematical logic, elementary number theory, basic set theory, functions, and relations. Writing proficiency is required for a passing grade in this course. A student who does not write with the skill normally required of an upper-division student will not earn a passing grade, no matter how well the student performs in other areas of the course.
 
 ### MATH 302
 
-### MATH 355
+### Theory of Probability
+MATH 355
+> The foundations of the theory of probability, laws governing random phenomena and their practical applications in other fields. Topics include: probability spaces; properties of probability set functions; conditional probability; and an introduction to combinatorics, discrete random variables, expectation of discrete random variables, Chebyshev's Inequality, continuous variables and their distribution functions, and special densities.
 
 ## Engineering
 ### ENGR 103
