@@ -84,7 +84,9 @@ MATH 237
 MATH 301
 > An introduction to mathematical logic and proof within the context of discrete structures. Topics include basic mathematical logic, elementary number theory, basic set theory, functions, and relations. Writing proficiency is required for a passing grade in this course. A student who does not write with the skill normally required of an upper-division student will not earn a passing grade, no matter how well the student performs in other areas of the course.
 
-### MATH 302
+### Topics in Discrete Mathematics
+MATH 302
+> A supplemental course in discrete mathematics covering select topics of interest in computer science. Topics include graphs and trees, finite state automata and regular expressions, efficiency of algorithms.
 
 ### Theory of Probability
 MATH 355
