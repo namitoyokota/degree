@@ -1,6 +1,6 @@
 # Computer Science Degree
 
-All contents from getting a Computer Science degree with a Mathematics minor from the University of Alabama. Roll TIde 🐘
+Computer Science degree with a Mathematics minor from the University of Alabama. Roll TIde 🐘
 
 ## Computer Science Courses
 
