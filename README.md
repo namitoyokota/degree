@@ -38,6 +38,8 @@ CS 201
 
 > Data structures including balanced search trees, heaps, hash tables, and graphs. Algorithm design techniques including divide-and-conquer, greedy method, and dynamic programming. Emphasis on problem solving, design, analysis, and reasoning about data structures and algorithms. Computing proficiency is required for a passing grade in this course.
 
+- [IMDb Catalog](./imdb-catalog/README.md)
+
 ### Web Foundations
 
 CS 202
