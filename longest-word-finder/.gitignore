@@ -1,9 +1,0 @@
-*.txt
-*.class
-*.out
-*.o 
-*.so
-.vscode
-msgsnd
-msgrcv
-searchmanager

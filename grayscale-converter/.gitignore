@@ -1,8 +1,0 @@
-# custom attributes
-.DS_Store
-.vscode/*
-
-# created directories and files
-bin/*
-*.o
-a.out
