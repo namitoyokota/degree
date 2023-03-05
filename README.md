@@ -94,6 +94,8 @@ CS 481
 
 > This course provides students with knowledge and fundamental concepts of high performance computing as well as hands-on experience of the core technology in the field. The objective of this class is to understand how to achieve high performance on a wide range of computational platforms. Topics include: optimizing the performance of sequential programs based on modern computer memory hierarchies, parallel algorithm design, developing parallel programs using MPI, analyzing the performance of parallel programs.
 
+- [Matrix Multiplication](./matrix-multiplication/README.md)
+
 ### Capstone Computing
 
 CS 495
