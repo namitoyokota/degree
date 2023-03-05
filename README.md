@@ -80,6 +80,8 @@ CS 451
 
 > This course introduces fundamental concepts & techniques in data science as well as develops practical skills for data analysis in real-world applications. Given the multi-disciplinary nature of data science, the course will primarily focus on the advantages and disadvantages of various methods for different data characteristics, but will also provide some coverage on the statistical or mathematical foundations. Topics to cover include data preprocessing, data exploration, relationship mining, prediction, clustering, outlier detection, deep learning, spatial and spatiotemporal data analysis, text data analysis, and big data.
 
+- [Mask Detector](./mask-detector/README.md)
+
 ### Computer Algorithms
 
 CS 470
