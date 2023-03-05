@@ -30,6 +30,8 @@ CS 200
 
 > Introduction to software engineering: the software crisis, program life cycle, software systems analysis techniques, software modeling, theory and practice of design, program testing methodologies, programmer team organization, and program verification and synthesis. Computing proficiency is required for a passing grade in this course.
 
+- [Chocoholics Anonymous](./chocoholics-anonymous/README.md)
+
 ### Data Structures and Algorithms
 
 CS 201
