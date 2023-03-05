@@ -59,9 +59,13 @@ CS 495
 > A culminating capstone project course that integrates the skills and abilities throughout the curriculum into a comprehensive design and development experience for computer science majors. Writing proficiency is required for a passing grade in this course. A student who does not write with the skill normally required of an upper-division student will not earn a passing grade, no matter how well the student performs in other areas of the course.
 
 ## Electrical Engineering
-### ECE 380
+### Digital Logic
+ECE 380
+> Number systems, Boolean algebra, logic functions and gates, design of combinational logic systems, flip-flops, design of synchronous sequential systems, and iterative networks. Includes laboratory experiments.
 
-### ECE 383
+### Microcomputers
+ECE 383
+> Microprocessors, microcontrollers, assembly-language programming, interrupts, polling and hardware interfaces. Computing proficiency is required for a passing grade in this course. Includes laboratory experiments.
 
 ## Mathematics
 ### MATH 126
