@@ -91,6 +91,10 @@ MATH 355
 > The foundations of the theory of probability, laws governing random phenomena and their practical applications in other fields. Topics include: probability spaces; properties of probability set functions; conditional probability; and an introduction to combinatorics, discrete random variables, expectation of discrete random variables, Chebyshev's Inequality, continuous variables and their distribution functions, and special densities.
 
 ## Engineering
-### ENGR 103
+### Engineering Foundations
+ENGR 103
+> Introductory course for students in all engineering disciplines that provides the basic skills required for engineering with an emphasis on problem solving, sketching, teaming, oral and written technical communication, and the design process.
 
-### ENGR 161
+### Small-Scale Engineering Graphics
+ENGR 161
+> Two-dimensional representations of multiviews, sections, and auxiliaries will be generated.
