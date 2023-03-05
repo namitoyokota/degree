@@ -50,6 +50,8 @@ CS 300
 
 > Study of basic operating system concepts with an emphasis on memory, processor, device, and information management.
 
+- [Longest Word Finder](./longest-word-finder/README.md)
+
 ### Database Management Systems
 
 CS 301
